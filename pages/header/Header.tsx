@@ -2,7 +2,7 @@
 const Header=()=>{
     return(
         <>
-           <h1 className="text=center" style={{height:'200%'}}>hello 1</h1>
+           <h1 className="text-danger hello" style={{height:"500px",border:"solid 5px"}}>hello 1</h1>
         </>
     )
 }
